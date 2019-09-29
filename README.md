@@ -1,2 +1,2 @@
 # Game-Of-Life
-Conway's Game of Life written in Java. 
+Conway's Game of Life written in Java. Associated graphical user interface. 
